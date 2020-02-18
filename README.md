@@ -1,5 +1,13 @@
 # Chattermill Data Challenge
 
+## Files in this notebook
+* Data_Exploration.ipynb: Method to data-cleaning and contains data statistics.
+* Final_Notebook.ipynb: All cleaning functions in one cell plus SQL Queries.
+* CleaningFunctions.py: Contains all functions called in Final_Notebook.ipynb.
+
+
+
+
 ### Goal
 We would like you to demonstrate your skills in simple data manipulation and analysis. We are looking to understand how you approach the problem and knowledge of programming / data analysis skills, attention to detail and ability to learn new things on the fly.
 
